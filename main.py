@@ -99,7 +99,7 @@ running = True
 while running:
 
     BackGround = Backround('Sprites/Backround.png', [0, 0])
-    screen.fill([255, 255, 255])
+    screen.fill([0, 0, 0])
     screen.blit(BackGround.image, BackGround.rect)
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
