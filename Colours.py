@@ -1,0 +1,11 @@
+# Colour Library
+Red = '#FF0018'
+Green = '#63C328'
+Blue = '#7EA6F4'
+White = '#FFFFFF'
+LightGray = '#DDDDDD'
+Black = '#000000'
+Purple = '#9E74B0'
+Orange = '#F4831B'
+Deepred = '#A81B1B'
+DarkBlue = '#1D2951'
